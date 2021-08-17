@@ -22,7 +22,7 @@
 
 }
 .box>img{
-    width: 100%;
+    width: 86%;
 }
  h1{
 font-size: 40px;
@@ -75,7 +75,7 @@ background-position: left;
 .boxshadow{
     box-shadow: 10px 10px 40px gray;
     border-left: 7px solid orange;
-    height: 65%;
+    height: 55%;
     border-radius: 5px;
 }
 footer{text-align: center;
